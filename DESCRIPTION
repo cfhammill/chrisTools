@@ -1,0 +1,9 @@
+Package: chrisTools
+Title: Personal Functions
+Version: 0.1
+Authors@R: "Chris Hammill <cfhammill@gmail.com>[aut,cre]"
+Description: A small archive of useful functions to keep track of things I do
+Depends:
+    R (>= 3.1.0)
+License: 
+LazyData: true
